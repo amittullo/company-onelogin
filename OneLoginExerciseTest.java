@@ -1,9 +1,7 @@
-package test.java;
+package com.onelogin.calculator;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import companyExercise.Calculator;
 
 public class OneLoginExerciseTest {
 
