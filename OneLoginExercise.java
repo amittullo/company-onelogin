@@ -1,4 +1,4 @@
-package com.oracle.java;
+package com.onelogin.calculator;
 
 import java.util.function.Function;
 
